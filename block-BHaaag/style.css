@@ -1,0 +1,14 @@
+body {background-color: rgb(1, 70, 102);
+    font-family: calibri;
+    color: rgb(223, 223, 223);
+    }
+.heads { color : rgb(0, 206, 0);
+            font-size: x-large;}
+p { font-size: 95%;
+    line-height: 10px;}
+
+h1 {line-height: 5px; }
+
+a {
+    color: red;
+}
