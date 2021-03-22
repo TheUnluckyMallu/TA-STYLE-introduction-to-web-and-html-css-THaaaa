@@ -9,17 +9,6 @@ p { font-size: 95%;
 
 h1 {line-height: 5px; }
 
-.row {
-    float: left;
-    width: 60%;
-    height: 20px;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-.col {
-    float: left;
-    margin-left: 20px;
-    padding: 0%;
+a {
     color: red;
 }
